@@ -1,0 +1,5 @@
+Variant,Params (M),Accuracy,F1 (macro),Delta Accuracy vs Full
+Full GAMS-Net,2.824,0.9051,0.9059,0.0
+w/o ECA,2.824,0.9021,0.9041,-0.003
+w/o MSDF,0.593,0.8726,0.8779,-0.0325
+w/o Ghost,8.028,0.9081,0.9081,0.003
